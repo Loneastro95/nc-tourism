@@ -1,0 +1,48 @@
+
+
+.form-control-lg {
+  width: 600px;
+}
+
+.hero {
+  background-image: url(../../images/kimberly.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  min-height: 40vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  
+}
+
+/* form{
+    position: absolute;
+    top: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #898a94 40%;
+} */
+
+.search-container{
+  aspect-ratio: 1/.2;
+  background-color: rgb(117, 117, 117);
+  opacity: 80%;
+  padding: 10px;
+  border-radius: 10px;
+  position: fixed;
+  top: 35%;
+  gap: 10px;
+  
+}
+
+.checkin-out{
+  gap: 10px
+}
+
+button{
+  border-radius: 2px;
+  padding: 0px 5px;
+}
